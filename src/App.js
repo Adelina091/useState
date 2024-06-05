@@ -1,5 +1,5 @@
 import React from "react";
-import { MyComponent } from "./components/test.useState"; // Убедитесь, что путь к компоненту указан правильно
+import { MyComponent } from "./components/test.useState"; 
 
 function App() {
   return (
